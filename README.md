@@ -3,7 +3,7 @@ This project was heavily inspired by [pfetch](https://github.com/dylanaraps/pfet
 
 ## How to install
 ```shell
-git clone github.com/MiningTcup/thiccfetch.git
+git clone https://github.com/MiningTcup/thiccfetch.git
 cd thiccfetch
 cargo build --release
 chmod +x target/releases/thiccfetch
